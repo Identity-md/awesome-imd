@@ -21,6 +21,7 @@ Building something on IMD? Open a PR and add it below 👇
 ## 🎥 Media
 
 - ▶️ **[Video by nagato](https://x.com/nagato0x/status/2095213015931203803)** — overview of IMD
+- 🖼️ **[Meme vault by nagato](https://memedepot.com/d/imd-meme-vault)** — collection of IMD memes, GIFs and clips on Meme Depot
 
 ---
 
