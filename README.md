@@ -9,6 +9,7 @@ Building something on IMD? Open a PR and add it below 👇
 ## 🏛️ Official
 
 - 🌐 **Website** — [imd.fun](https://imd.fun)
+- 🪝 **POOL4** — [pool4.imd.fun](https://pool4.imd.fun) · sells push IMD into the protocol-owned Uniswap v4 pool and the `CappedBurnHook` trims anything above the cap, burning 85% and splitting the rest between stakers, bonding and nodes
 - ⛓️ **On-chain messages** — [0x200E…0fB1 on Etherscan](https://etherscan.io/address/0x200E710aCAA6A93bbc77146026328C40F1d60fB1) · official communication is published as on-chain messages from this address
 
 ## 🛠️ Projects
