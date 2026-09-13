@@ -15,6 +15,7 @@ Building something on IMD? Open a PR and add it below 👇
 
 - 📊 **[IMD Terminal](https://imd-terminal.0xfinne.com)** — dashboard tracking on-chain data for the pool4 `CappedBurnHook`: burns, staking, yields and market activity, refreshed every 5 minutes
 - 🤖 **[@imd_bot on fomo](https://fomo.family/profile/imd_bot?tradeId=7287258d-df44-401a-a9c1-d2a2bb1c7847)** — bot that auto-posts IMD development updates
+- 📖 **[identity.md reader](https://idmd-reader.pages.dev)** — independent reader for IMD and the identity.md collection: on-chain messages, supply and burns, every figure pinned to the block it was read at
 
 ## 🎥 Media
 
