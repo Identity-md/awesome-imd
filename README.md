@@ -18,6 +18,7 @@ Building something on IMD? Open a PR and add it below 👇
 - 🤖 **[@imd_bot on fomo](https://fomo.family/profile/imd_bot?tradeId=7287258d-df44-401a-a9c1-d2a2bb1c7847)** — bot that auto-posts IMD development updates
 - 📖 **[identity.md reader](https://idmd-reader.pages.dev)** — independent reader for IMD and the identity.md collection: on-chain messages, supply and burns, every figure pinned to the block it was read at
 - ⚡ **[Optimizer](https://github.com/AlexandreCruz76/imd-optimizer)** — yield arbitrage engine for Uniswap V4 pools with real-time Hook vs Native pool comparison and automated migration recommendations
+- 🎲 **[FAIRDRAW](https://imd-raffle.0xfinne.com)** — raffles to identity.md holders that anyone can recompute: the entry list is hashed before the draw and the seed comes from an Ethereum block that had not been mined yet, so any winner list can be reproduced from the two published files ([source](https://github.com/isfinne/fairdraw))
 
 ## 🎥 Media
 
