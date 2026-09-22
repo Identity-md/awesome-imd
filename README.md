@@ -19,6 +19,7 @@ Building something on IMD? Open a PR and add it below 👇
 - 📖 **[identity.md reader](https://idmd-reader.pages.dev)** — independent reader for IMD and the identity.md collection: on-chain messages, supply and burns, every figure pinned to the block it was read at
 - ⚡ **[Optimizer](https://github.com/AlexandreCruz76/imd-optimizer)** — yield arbitrage engine for Uniswap V4 pools with real-time Hook vs Native pool comparison and automated migration recommendations
 - 🎲 **[FAIRDRAW](https://imd-raffle.0xfinne.com)** — raffles to identity.md holders that anyone can recompute: the entry list is hashed before the draw and the seed comes from an Ethereum block that had not been mined yet, so any winner list can be reproduced from the two published files ([source](https://github.com/isfinne/fairdraw))
+- 📒 **[Swarm Ledger](https://johnfreeman777.github.io/swarm-ledger/)** — look up any wallet or identity.md NFT to see every swarm launch that allocated tokens to it, whether each allocation is claimed (checked on chain), the claim page and the distributor address to verify before signing, and the seats' accepted tasks and rank. Read-only, no wallet connect ([source](https://github.com/johnfreeman777/swarm-ledger))
 
 ## 🎥 Media
 
