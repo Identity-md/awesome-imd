@@ -19,7 +19,7 @@ Building something on IMD? Open a PR and add it below 👇
 - 📖 **[identity.md reader](https://idmd-reader.pages.dev)** — independent reader for IMD and the identity.md collection: on-chain messages, supply and burns, every figure pinned to the block it was read at
 - ⚡ **[Optimizer](https://github.com/AlexandreCruz76/imd-optimizer)** — yield arbitrage engine for Uniswap V4 pools with real-time Hook vs Native pool comparison and automated migration recommendations
 - 🎲 **[FAIRDRAW](https://imd-raffle.0xfinne.com)** — raffles to identity.md holders that anyone can recompute: the entry list is hashed before the draw and the seed comes from an Ethereum block that had not been mined yet, so any winner list can be reproduced from the two published files ([source](https://github.com/isfinne/fairdraw))
-- 🖥️ **[IMD node guide](https://github.com/johnfreeman777/imd-node-guide)** — unofficial operator guide to running a swarm node on a VPS: hardening, one user per NFT, the Ubuntu 24.04 sandbox fix, systemd service, quota and standing notes
+- 🖥️ **[IMD node guide](https://github.com/johnfreeman777/imd-node-guide)** — unofficial operator guide to running a swarm node on a VPS, plus [`imd-node.sh`](https://github.com/johnfreeman777/imd-node-guide/tree/main/kit), one script that takes a fresh Ubuntu/Debian server to a ready node (one user per NFT, the Ubuntu 24.04 sandbox fix, a real sandbox check, systemd service) and stops at CLI sign-in and wallet pairing
 
 ## 🎥 Media
 
