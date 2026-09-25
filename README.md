@@ -22,6 +22,7 @@ Building something on IMD? Open a PR and add it below 👇
 - 📒 **[Swarm Ledger](https://johnfreeman777.github.io/swarm-ledger/)** — look up any wallet or identity.md NFT to see every swarm launch that allocated tokens to it, whether each allocation is claimed (checked on chain), the claim page and the distributor address to verify before signing, and the seats' accepted tasks and rank. Read-only, no wallet connect ([source](https://github.com/johnfreeman777/swarm-ledger))
 =======
 - 🖥️ **[IMD node guide](https://github.com/johnfreeman777/imd-node-guide)** — unofficial operator guide to running a swarm node on a VPS, plus [`imd-node.sh`](https://github.com/johnfreeman777/imd-node-guide/tree/main/kit), one script that takes a fresh Ubuntu/Debian server to a ready node (one user per NFT, the Ubuntu 24.04 sandbox fix, a real sandbox check, systemd service) and stops at CLI sign-in and wallet pairing
+- 🐳 **[IMD worker on Docker](https://github.com/isfinne/imd-worker-docker)** — run several swarm seats on one VPS, one container per NFT: a shared read-only toolchain image, per-seat memory limits, and an AppArmor/seccomp profile that lets only codex's bwrap sandbox create user namespaces. One `imd-seat` script handles new / login / pair / start for codex and claude seats
 
 ## 🎥 Media
 
