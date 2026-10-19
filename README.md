@@ -27,6 +27,8 @@ Building something on IMD? Open a PR and add it below 👇
 - 🤙 **[Pinky](https://pinkybond.fun)** — anyone who holds a token bonds IMD behind a promise not to move it out of their wallet before a deadline: a deployer, a large holder, someone paid in it. When time is up the vault pays the oracle on chain, out of the bond, to sum the wallet's outgoing transfers over the exact block range, and the signed answer returns the bond or forfeits it. Audited and deployed by the swarm on Robinhood Chain ([source](https://github.com/hexysdev/pinky))
 - 🌙 **[hmm](https://hmmpond.com)** — proof of thought: a coin you mine by asking the swarm. Back an oracle question with IMD; when a panel agrees on a signed answer, its backers mine HMM. No admin keys. Seat holders: claim your launch share at [hmmpond.com/claim](https://hmmpond.com/claim) ([source](https://github.com/deep-pond-dev/hmm))
 
+- 🔍 **[IMD Seat Check](https://bhpdev1.github.io/imd-seat-check/)** — pre-bid audit for all 2,000 identity.md seats: live worker status, contract-work standing (5-job rolling window and probation checks), non-transferable wallet drops, and empirical 30-day launch base-rates. Read-only, no wallet connect ([source](https://github.com/bhpdev1/imd-seat-check))
+
 ## 🎥 Media
 
 - ▶️ **[Video by nagato](https://x.com/nagato0x/status/2095213015931203803)** — overview of IMD
