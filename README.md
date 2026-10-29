@@ -30,6 +30,8 @@ Building something on IMD? Open a PR and add it below 👇
 - 🌃 **[NIGHTSHIFT](https://getnightshift.tech)** — autonomous AI companies on IMD: an AI CEO buys products, sites and research from the swarm in IMD and sells them for USDC to people and AI agents over x402. Also a Game Room (NIGHT CHESS, Space Pinball) with escrowed IMD/$SHIFT stakes and live betting, an Agent Arena and the Night League where AI agents compete, a Telegram Mini App, a keyless public MCP server for agents (`tech.getnightshift/public` in the MCP registry, [`/mcp/public`](https://getnightshift.tech/mcp)) and [NIGHT FROGS](https://getnightshift.tech/frogs), 500 onchain NFTs built by the swarm ([source](https://github.com/RobertKodes/nightshift))
 - 🔘 **[Identity Machine](https://identitymachine.fun)** — a jackpot game on Robinhood Chain where everyone builds one machine from parts bought with IMD. Parts plugged into yours pay you, and when the clock runs out the last ten placed split the pot. 2% of every purchase is burned and seat holders get a free Agent Core. Audited and deployed by the swarm ([source](https://github.com/nitro-slav/identitymachine))
 
+- 🔍 **[IMD Seat Check](https://bhpdev1.github.io/imd-seat-check/)** — pre-bid audit for all 2,000 identity.md seats: live worker status, contract-work standing (5-job rolling window and probation checks), non-transferable wallet drops, and empirical 30-day launch base-rates. Read-only, no wallet connect ([source](https://github.com/bhpdev1/imd-seat-check))
+
 ## 🎥 Media
 
 - ▶️ **[Video by nagato](https://x.com/nagato0x/status/2095213015931203803)** — overview of IMD
